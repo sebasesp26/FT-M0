@@ -29,7 +29,7 @@ img{
 
 body{
     background-image: url(Imagenes/Logo.jpeg);
-    margin-left: 50px;
+    background-size: cover;
 }
 a{
     font-size: 18px;
