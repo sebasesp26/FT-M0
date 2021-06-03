@@ -1,0 +1,16 @@
+Variables:
+    Las variables son como si tuvieras una cajita, donde puedes guardar tus cosas. Puedes cambiar lo que esta adentro cuantas veces quieras
+Strings: 
+    Strings son un grupo de amigos que se juntan, cada amigo es un caracter pero cuando se juntan se hacen llamar Strings
+Funciones (argumentos, return): 
+    Las funciones son todas aquellas habilidades que una cosa puede hacer, por ejemplo si tuvieramos un perro, una habilidad(función) que tiene es ladrar.
+    Los argumentos son las características que esta habilidad(función) tiene, es decir, podríamos pedir de argumento que tan fuerte ladra el perro con un Strings
+    function ladrar(volumen){
+        console.log("fuerte");
+    }
+    Return es una palabra que se utiliza para hacerle saber a la función que tiene que regresar un valor.
+Declaraciones if:
+    Los if se utilizan cuando necesitas tener dos opciones y necesitas que se cumpla algo, siguiendo el ejemplo del perro podemos decir que:
+    si nuestro animal es un perro entonces ladra si no entonces maulla 
+Valores booleanos (true, false):
+    Los valores booleanos, son muy simples , es como decir blanco o negro, abierto o cerrado, justamente...verdadero o falso, se usan en caso de querer tener solo esas dos opciones
