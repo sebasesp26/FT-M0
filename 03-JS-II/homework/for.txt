@@ -1,0 +1,10 @@
+El for es un tipo de ciclo, el ciclo nos ayuda a repetir varias veces una instrucción, la característica del ciclo for
+es que nosotros sabemos donde inicio y donde termina y podemos indicarlo.
+
+|| este símbolo siginifica or u o, nos ayuda al hacer una comparación de dos condiciones, por ejemplo si queremos que nos marque verdadero
+ si la condición uno o la condición dos se cumplen.
+
+ && Este símbolo por el contrario nos marcará verdadero si cualquiera de las dos condiciones se cumplen.
+
+ ! este símbolo nos ayuda a cambiar de extremo un valor, es decir, si es true se cambia a false, si es positivo se cambia a negativo, etc.
+ 
