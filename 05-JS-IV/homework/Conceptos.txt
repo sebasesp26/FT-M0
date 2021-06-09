@@ -1,0 +1,13 @@
+Objetos:
+    Un objeto es un tipo de variable la cual puede obtener multiples valores, así como propiedades y métodos. 
+Propiedades:
+    Las propiedades se podría decir que son las características de el objeto
+Métodos:
+    Los métodos son todas las acciones que nuestro objeto puede realizar
+Bucle for…in:
+    es usado para repetir un ciclo dentro de un objeto o arreglo, meidante una clave 
+Notación de puntos vs notación de corchetes:
+    La notación de corchetes es recomendable usarla cuando el nombre de nuestra propiedad esta contenido en una variable 
+    o cuando el nombre tiene caracteres especiales como espacios o guiones
+
+    La notación de puntos es recomendable usarla en la mayoría de los momentos
