@@ -1,0 +1,4 @@
+Prototype: Todos los objetos de Javascript heredan propiedades y métodos de un Prototype
+            Además te permite añadir métodos y objetos al constructor.
+
+Clase constructor: La clase constructor nos ayuda a crear objetos del mismo tipo, a los cuales les podrás añadir propiedades.
